@@ -25,4 +25,4 @@
 </div><br />
 Apaixonado por tecnologia
 
-![snake gif](https://github.com/Eros203/Eros203/blob/output/github-contribution-grid-snake.svg.
+![snake gif](https://github.com/Eros203/Eros203/blob/output/github-contribution-grid-snake.svg)
