@@ -9,6 +9,8 @@
 
 ![Eros203 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eros203&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eros203)](https://github.com/Eros203/github-readme-stats)
+
 ## Tecnologias que uso ou estou aprendendo
 
 <div style="display: inline_block"><br />
