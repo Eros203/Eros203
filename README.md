@@ -8,7 +8,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Eros203)
 
 ![Eros203 GitHub stats](https://github-readme-stats.vercel.app/api?username=Eros203&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eros203)](https://github.com/Eros203/github-readme-stats)
 
 ## Tecnologias que uso ou estou aprendendo
